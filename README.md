@@ -259,7 +259,7 @@ g++ -std=c++11 -I./src tests/test_banking.cpp src/banking.cpp src/utils.cpp src/
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is not  open source and available under the MIT License.
 
 ## Support
 
